@@ -74,12 +74,37 @@
     border-color: rgb(208, 205, 205);
     margin-left: -2px;
     margin-right: 8px;
+    position: relative;
+    }
 
-}
+    .button-search div{
+        position:absolute;
+        bottom: -25px;
+        font-size: 15px;
+        opacity: 0;
+        pointer-events: none;
+       
+    }
+    .button-search:hover div{
+        background-color: rgba(59, 58, 57, 0.215);
+        opacity: 1;
+    }
 .button-voice{
     border-radius: 30px;
     border: none;
     border-color: rgb(179, 179, 179);
+}
+.button-voice div{
+    position:absolute;
+    bottom: -25px;
+    font-size: 15px;
+    opacity: 0;
+    pointer-events: none;
+   
+}
+.button-voice:hover div{
+    background-color: rgba(59, 58, 57, 0.215);
+    opacity: 1;
 }
 
 .right-section{
