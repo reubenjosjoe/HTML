@@ -7,9 +7,9 @@
 
 .video-preview{
    display:inline-block;
-   width: 300px;
+   width: 270px;
    vertical-align: top;
-   margin-right: 10px;
+   margin-right: 33px;
 }
 
 .profile-pic{
@@ -22,7 +22,7 @@
    width: 200px;
 }
 .template1{
-    margin-right: 10px;
+    margin-right:6px;
     display: inline-block;
 
 }
