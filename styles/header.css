@@ -3,7 +3,16 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(230, 228, 228);
+    border-bottom-style: solid;
 }
+
 .left-section{
     margin-top: 0px;
     display: flex;
