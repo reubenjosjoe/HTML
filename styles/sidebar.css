@@ -1,0 +1,8 @@
+.side-bar{
+    position:fixed;
+    background-color: #fafafa;
+    left: 0;
+    bottom: 0px;
+    top: 55px;
+    width:43px;
+}

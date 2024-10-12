@@ -10,6 +10,8 @@
    width: 270px;
    vertical-align: top;
    margin-right: 33px;
+   position: relative;
+   
 }
 
 .profile-pic{
@@ -24,6 +26,8 @@
 .template1{
     margin-right:6px;
     display: inline-block;
+    position: relative;
+    
 
 }
 
