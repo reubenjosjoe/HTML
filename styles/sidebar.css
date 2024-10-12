@@ -1,8 +1,28 @@
 .side-bar{
+    padding-top: 20px;
     position:fixed;
     background-color: #fafafa;
     left: 0;
     bottom: 0px;
     top: 55px;
-    width:43px;
+    width:60px;
+    z-index: 2;
+}
+.sidebar-icons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height:84px
+    
+    
+}
+.sidebar-icons:hover{
+    background-color: azure;
+    
+}
+.side-img{
+    width:25px
+}
+.p-size{
+    font-size: 10px;
 }
